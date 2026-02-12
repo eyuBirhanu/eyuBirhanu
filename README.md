@@ -1,74 +1,96 @@
-# 👋 Hi, I'm Eyu Birhanu
+# 👋 Hi, I'm Eyu (Eyael) Birhanu
 
-### 💻 Full-Stack Developer | UI/UX Designer | A2SV Software Engineer Trainee
+### 💻 Full-Stack Developer | ERP & Fintech Builder | Next.js & React Native | UI/UX | Data & AI Enthusiast
 
-I'm a **Full-Stack Developer** and **UI/UX Designer** passionate about building scalable, impactful, and user-centered digital solutions.  
-Currently, I'm a **Software Engineering Trainee at A2SV (Africa to Silicon Valley, backed by Google)** — mastering **Data Structures, Algorithms, and Software Engineering fundamentals** to prepare for roles at top global tech companies.
+I’m a **Full-Stack Developer and UI/UX Designer** focused on building real products that solve business problems. I design, develop, and deploy end-to-end systems — from user research in Figma to scalable backend services and real-time applications.
 
----
-
-### 🚀 About Me
-- 🌍 Based in **Hossaina, Ethiopia**  
-- 🎓 **Computer Science Student** at Wachemo University (2nd Year)  
-- 💡 I love building **SaaS platforms**, **dynamic web apps**, and **real-world problem-solving projects**.  
-- 🌱 Currently improving my **MERN / Next.js + NestJS** stack skills and deepening my **DSA** foundation with A2SV.  
-- ⚡ Passionate about clean architecture, creative UI, and impactful tech innovation.
+Currently:
+- **Founder & Lead Developer – GebetaLink** (Restaurant ERP & Fintech Platform)
+- **Software Engineering Trainee – A2SV** (DSA & Systems, backed by Google)
+- **Data Engineering & AI Trainee – 10 Academy**
 
 ---
 
-### 🧩 Featured Projects
+## 🚀 What I’m Building
 
-#### 🍽️ [GebetaLink](https://gebetalink.vercel.app/)
-**Founder & Lead Full-Stack Developer**  
-A full-stack SaaS platform revolutionizing restaurant management in Ethiopia.  
-Built using **Next.js**, **Express.js**, **MongoDB**, **Tailwind**, **Socket.IO**, and **Chapa** payment integration.  
-🚀 *Multi-role admin system, real-time order dashboards, analytics, and localized payments.*
+### 🍽️ GebetaLink – Restaurant ERP & Fintech Platform  
+**Founder & Full-Stack Developer**  
+👉 https://gebetalink.et/
 
-#### 💙 [Hope Behind Bars](https://www.hopebehindbarsethiopia.org/)
-**Lead Full-Stack Developer**  
-A dynamic, donation-driven non-profit website with a full **custom CMS**, enabling the team to manage content independently.  
-Built with **Next.js**, **Tailwind CSS**, and **MongoDB**.
+An all-in-one operating system for Ethiopian hospitality — beyond ordering.
 
-#### 🎥 [Kalkidan Portfolio](https://kalkidan-portfolio-five.vercel.app/)
-**Lead Frontend Developer**  
-A modern, responsive React portfolio for a video editor — featuring optimized performance and elegant UI built with **React + Tailwind CSS**.
+**Core Features I Built**
+- Smart QR Ordering with bilingual digital menus  
+- Multi-Station KDS routing (Kitchen/Barista/Bakery)  
+- Financial ERP with real-time profit margins & P&L  
+- Hybrid Payments (CBE, Telebirr, Chapa, Cash)  
+- Real-time dashboards with Socket.IO  
+- Client onboarding for 2 live cafes
 
----
-
-### 🛠️ Tech Stack
-
-**Languages & Frameworks**
-> JavaScript | TypeScript | Python | C++ | PHP  
-> React | Next.js | React Native | Express.js | NestJS | Node.js  
-
-**Databases & Tools**
-> MongoDB | MySQL | Git/GitHub | Socket.IO | JWT | REST APIs | Cloudinary | Chapa  
-
-**Design & Workflow**
-> Figma | Canva | Tailwind CSS | NativeWind | Responsive Design | Agile Development  
+**Tech:**  
+Next.js • Node.js • MongoDB • Socket.IO • TypeScript • Tailwind • Chapa
 
 ---
 
-### 🏆 Achievements & Learning
-- 🧠 **Software Engineering Trainee** at **A2SV (Backed by Google)**  
-- ⚔️ **Quarterfinalist** – A2SV *Impact for AI Hackathon (2024)*  
-- 🎓 Completed *Programming Fundamentals (Udacity)*  
-- 📈 Continuously improving my **DSA** and **system design** skills  
+### 📊 Bayesian Market Intelligence Dashboard  
+👉 https://github.com/eyuBirhanu/Brent-Oil-Analysis.git
+**10 Academy Project**
+
+- Bayesian Change Point Detection with PyMC  
+- Flask REST API + React Dashboard  
+- Energy price analysis & visualization  
+**Tech:** Python • PyMC • Flask • React • Pandas
 
 ---
 
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eyu%20Birhanu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eyu-birhanu)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=flat-square&logo=vercel)](https://eyu-birhanu.vercel.app/) 
-[![Email](https://img.shields.io/badge/Email-eyubirhanu01%40gmail.com-red?style=flat-square&logo=gmail)](mailto:eyubirhanu01@gmail.com)
-
----
-
-### ⚡ Fun Fact
-> I believe great software is not just built — it’s **designed, engineered, and experienced**.  
-> I enjoy combining **creativity**, **logic**, and **impact** to bring ideas to life through code.
+### 💙 Hope Behind Bars  
+👉 https://www.hopebehindbarsethiopia.org/
+Custom CMS for a non-profit enabling independent content management  
+**Tech:** Next.js • MongoDB • Tailwind
 
 ---
 
-⭐️ *Thanks for visiting my profile — let's connect and build something amazing together!*
+## 🛠 Tech Stack
+
+**Core**
+- JavaScript • TypeScript • Python  
+- Next.js • React • React Native  
+- Node.js • Express • NestJS  
+
+**Data & Backend**
+- MongoDB • MySQL • REST APIs  
+- Socket.IO • Authentication • System Design  
+
+**Design**
+- UI/UX • Figma • Tailwind • Product Thinking
+
+---
+
+## 🎯 Focus Areas
+
+- ERP & fintech systems  
+- Real-time applications  
+- Scalable product architecture  
+- Data-driven decision systems  
+- UX-driven development
+
+---
+
+## 🧠 Learning Journey
+
+- A2SV – Advanced DSA & Problem Solving  
+- 10 Academy – Data Engineering & AI  
+- Building production systems with real users
+
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn: https://linkedin.com/in/eyu-birhanu  
+- Product: https://gebetalink.et  
+- GitHub: https://github.com/eyuBirhanu  
+- Email: eyubirhanu01@gmail.com
+
+---
+
+> I believe great software sits at the intersection of **business value, user experience, and solid engineering.**
