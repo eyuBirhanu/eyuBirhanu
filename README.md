@@ -55,7 +55,7 @@ Custom CMS for a non-profit enabling independent content management
 ## 🛠 Tech Stack
 
 **Core**
-- JavaScript • TypeScript • Python  
+- JavaScript • TypeScript • Python • Go 
 - Next.js • React • React Native  
 - Node.js • Express • NestJS  
 
