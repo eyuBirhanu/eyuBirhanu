@@ -34,6 +34,7 @@ Next.js • Node.js • MongoDB • Socket.IO • TypeScript • Tailwind • Ch
 
 ### 📊 Bayesian Market Intelligence Dashboard  
 👉 https://github.com/eyuBirhanu/Brent-Oil-Analysis.git
+
 **10 Academy Project**
 
 - Bayesian Change Point Detection with PyMC  
@@ -45,6 +46,7 @@ Next.js • Node.js • MongoDB • Socket.IO • TypeScript • Tailwind • Ch
 
 ### 💙 Hope Behind Bars  
 👉 https://www.hopebehindbarsethiopia.org/
+
 Custom CMS for a non-profit enabling independent content management  
 **Tech:** Next.js • MongoDB • Tailwind
 
