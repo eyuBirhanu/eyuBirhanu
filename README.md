@@ -1,98 +1,48 @@
-# 👋 Hi, I'm Eyu (Eyael) Birhanu
+# Hi, I'm Eyu Birhanu
 
-### 💻 Full-Stack Developer | ERP & Fintech Builder | Next.js & React Native | UI/UX | Data & AI Enthusiast
+**Full-stack & AI engineer** in Ethiopia (UTC+3). I build production products end to end, and AI agents that speak Ethiopian languages.
 
-I’m a **Full-Stack Developer and UI/UX Designer** focused on building real products that solve business problems. I design, develop, and deploy end-to-end systems — from user research in Figma to scalable backend services and real-time applications.
+[Portfolio](https://www.eyubirhanu.site) · [CV](https://www.eyubirhanu.site/cv) · [LinkedIn](https://www.linkedin.com/in/eyu-birhanu/) · [Telegram](https://t.me/eyuBirhanuu) · eyubirhanu.dev@gmail.com
 
-Currently:
-- **Founder & Lead Developer – GebetaLink** (Restaurant ERP & Fintech Platform)
-- **Software Engineering Trainee – A2SV** (DSA & Systems, backed by Google)
-- **Data Engineering & AI Trainee – 10 Academy**
+**Open to remote full-stack and AI engineering roles.**
 
 ---
 
-## 🚀 What I’m Building
+### Now
 
-### 🍽️ GebetaLink – Restaurant ERP & Fintech Platform  
-**Founder & Full-Stack Developer**  
-👉 https://gebetalink.et/
+- **Full-Stack Developer at [Lucy AI](https://lucyhub.ai/)**: voice agents and chatbots in Amharic, Afaan Oromo, Tigrinya and English, with RAG on AWS vector databases, for 18+ enterprise clients.
+- **Founder of [GebetaLink](https://gebetalink.et/)**: a restaurant POS running at 5 restaurants and handling **1,000+ orders a day**.
 
-An all-in-one operating system for Ethiopian hospitality — beyond ordering.
+### Selected work
 
-**Core Features I Built**
-- Smart QR Ordering with bilingual digital menus  
-- Multi-Station KDS routing (Kitchen/Barista/Bakery)  
-- Financial ERP with real-time profit margins & P&L  
-- Hybrid Payments (CBE, Telebirr, Chapa, Cash)  
-- Real-time dashboards with Socket.IO  
-- Client onboarding for 2 live cafes
+**[GebetaLink](https://www.eyubirhanu.site/work/gebetalink)**: a bilingual (Amharic/English) multi-tenant restaurant SaaS that I built solo.
+- Staff POS, QR table ordering, Bluetooth thermal printing (including Amharic receipts), six role-based apps, delivery partners, and a Telegram bot.
+- **Light Off Mode** keeps orders reaching the kitchen during power cuts.
+- Chapa webhooks are signature-verified and idempotent, and one definition of the business day keeps every total consistent.
+- Next.js · Node.js · Express · MongoDB · Socket.IO · Capacitor (Android)
 
-**Tech:**  
-Next.js • Node.js • MongoDB • Socket.IO • TypeScript • Tailwind • Chapa
+**[Zemeromo](https://www.eyubirhanu.site/work/zemeromo)**: a gospel music platform for listeners, artists and choirs. *Pre-launch.*
+- Private audio, served only through signed links, with an ffmpeg transcoding worker and encrypted offline downloads.
+- Chapa checkout with a payment-recovery job, prepaid album cards, and artist payouts to Telebirr and CBE Birr, all inside MongoDB transactions.
+- Flutter · Node.js · Express 5 · MongoDB · Cloudflare R2
 
----
+The code for both products is private. The case studies above explain the architecture and the trade-offs.
 
-### 📊 Bayesian Market Intelligence Dashboard  
-👉 https://github.com/eyuBirhanu/Brent-Oil-Analysis.git
+### Public projects
 
-**10 Academy Project**
+- **[Tibbeb-AI-RAG](https://github.com/eyuBirhanu/Tibbeb-AI-RAG)**: a retrieval-augmented generation (RAG) assistant.
+- **[rag-complaint-chatbot](https://github.com/eyuBirhanu/rag-complaint-chatbot)**: a RAG chatbot over customer complaint data.
+- **[Finance-Management-System](https://github.com/eyuBirhanu/Finance-Management-System)**: a Go microservice for budgeting, expenses and financial reporting.
+- **[credit-risk-model](https://github.com/eyuBirhanu/credit-risk-model)** · **[fraud-detection](https://github.com/eyuBirhanu/fraud-detection)**: machine learning projects from the 10 Academy fellowship.
 
-- Bayesian Change Point Detection with PyMC  
-- Flask REST API + React Dashboard  
-- Energy price analysis & visualization  
-**Tech:** Python • PyMC • Flask • React • Pandas
+### Stack
 
----
+**Languages:** TypeScript, Python, Go, Dart
+**Product:** Next.js, React, Node.js, Express, FastAPI, Flutter, React Native
+**Data and AI:** RAG, LLM integration, AWS vector databases, MongoDB, PostgreSQL, Supabase
+**Infrastructure:** AWS, Cloudflare R2, Vercel, Docker, GitHub Actions
 
-### 💙 Hope Behind Bars  
-👉 https://www.hopebehindbarsethiopia.org/
+### Training
 
-Custom CMS for a non-profit enabling independent content management  
-**Tech:** Next.js • MongoDB • Tailwind
-
----
-
-## 🛠 Tech Stack
-
-**Core**
-- JavaScript • TypeScript • Python • Go 
-- Next.js • React • React Native  
-- Node.js • Express • NestJS  
-
-**Data & Backend**
-- MongoDB • MySQL • REST APIs  
-- Socket.IO • Authentication • System Design  
-
-**Design**
-- UI/UX • Figma • Tailwind • Product Thinking
-
----
-
-## 🎯 Focus Areas
-
-- ERP & fintech systems  
-- Real-time applications  
-- Scalable product architecture  
-- Data-driven decision systems  
-- UX-driven development
-
----
-
-## 🧠 Learning Journey
-
-- A2SV – Advanced DSA & Problem Solving  
-- 10 Academy – Data Engineering & AI  
-- Building production systems with real users
-
----
-
-## 📫 Let’s Connect
-
-- LinkedIn: https://linkedin.com/in/eyu-birhanu  
-- Product: https://gebetalink.et  
-- GitHub: https://github.com/eyuBirhanu  
-- Email: eyubirhanu01@gmail.com
-
----
-
-> I believe great software sits at the intersection of **business value, user experience, and solid engineering.**
+- **A2SV** (Google-backed): 500+ algorithm problems, data structures and system design.
+- **10 Academy**: AI & Data Engineering fellowship, 10 industry-grade projects.
