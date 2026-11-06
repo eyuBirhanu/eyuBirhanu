@@ -10,12 +10,13 @@
 
 ### Now
 
-- **Full-Stack Developer at [Lucy AI](https://lucyhub.ai/)**: voice agents and chatbots in Amharic, Afaan Oromo, Tigrinya and English, with RAG on AWS vector databases, for 18+ enterprise clients.
-- **Founder of [GebetaLink](https://gebetalink.et/)**: a restaurant POS running at 5 restaurants and handling **1,000+ orders a day**.
+**Full-Stack Developer at [Lucy AI](https://lucyhub.ai/)**: voice agents and chatbots in Amharic, Afaan Oromo, Tigrinya and English, with RAG on AWS vector databases, for 18+ enterprise clients.
+
+Before that, I founded **[GebetaLink](https://gebetalink.et/)** (Aug 2025 – Nov 2026), a restaurant POS I built solo that runs at 5 restaurants and handles **1,000+ orders a day**.
 
 ### Selected work
 
-**[GebetaLink](https://www.eyubirhanu.site/work/gebetalink)**: a bilingual (Amharic/English) multi-tenant restaurant SaaS that I built solo.
+**[GebetaLink](https://www.eyubirhanu.site/work/gebetalink)**: a bilingual (Amharic/English) multi-tenant restaurant SaaS that I founded and built solo (2025–2026).
 - Staff POS, QR table ordering, Bluetooth thermal printing (including Amharic receipts), six role-based apps, delivery partners, and a Telegram bot.
 - **Light Off Mode** keeps orders reaching the kitchen during power cuts.
 - Chapa webhooks are signature-verified and idempotent, and one definition of the business day keeps every total consistent.
